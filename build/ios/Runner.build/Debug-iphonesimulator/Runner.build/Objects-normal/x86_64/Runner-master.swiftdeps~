@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "40f4c698873b1733fda1685d402682837f597fd4fa0f365cc0818c39535b653d"
+build_start_time: [1724998719, 857571125]
+build_end_time: [1724998719, 934412956]
+inputs:
+  "/Users/wustcs-01/Desktop/ios-wusthelper 3/ios/Runner/AppDelegate.swift": !private [1724993955, 223429203]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ad8d294d2d07c738f285c3e2e09d22e48d633dba011cc9db022771b31f90f82e"
+build_start_time: [1679477388, 947747945]
+build_end_time: [1679477388, 982751846]
+inputs:
+  "/Users/wustcs-01/Desktop/ios-wusthelper/ios/TodaySchedule/TodaySchedule.swift": !private [1668426578, 749791622]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "4322aa2d7e1f66f9cb358330699ce7c8"
+build_time: [1634133209, 261920000]
+inputs:
+  "/Users/jiyuchen/Desktop/ios-wusthelper/ios/WustHelperExtension/WustHelperExtension.swift": [1634127357, 327970985]
+  "/Users/jiyuchen/Desktop/ios-wusthelper/ios/build/Runner.build/Debug-iphonesimulator/WustHelperExtensionExtension.build/DerivedSources/IntentDefinitionGenerated/WustHelperExtension/ConfigurationIntent.swift": [1634049810, 216791137]

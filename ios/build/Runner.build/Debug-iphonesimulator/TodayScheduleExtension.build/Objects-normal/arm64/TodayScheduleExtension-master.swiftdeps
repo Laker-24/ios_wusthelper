@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "83076e8f27496e29eb757fd0a46ab78d"
+build_time: [1638152561, 408556000]
+inputs:
+  "/Users/jiyuchen/Desktop/ios-wusthelper/ios/TodaySchedule/TodaySchedule.swift": [1638115990, 366197427]
